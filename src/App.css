@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.row span{
+  margin: 10px;
+  
+}
+
+p {
+  font-size: 15px;
+}
+
+.header {
+  font-size: 30px;
+}
+
+.card {
+  width: 90%;
+  max-width: 470px;
+  background: white;
+  color: black;
+  margin: 10px auto 0;
+  border-radius: 20px;
+  padding: 40px 35px;
+  text-align: center;
+  box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+  -6px -6px 10px -1px rgba(255,255,255,0.7);
+  border: 1px solid rgba(0,0,0,0);
+
+}
+
+
+.read-the-docs {
+  color: #888;
+}
